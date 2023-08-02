@@ -1,3 +1,3 @@
-from import AUTO awm
+from AUTO import awm
 
 awm()
